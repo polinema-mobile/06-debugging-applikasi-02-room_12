@@ -1,4 +1,7 @@
-# Elegant_Calculator
+# Elegant_Calculator UI Test
+
+# 3F_03_Agsal Fairrohmad A.P
+# 3F_16_M. Rahmat Samudra A.
 Features - 
 1) Responsive UI.
 2) It can perform all basic operations.
